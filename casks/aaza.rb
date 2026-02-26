@@ -1,6 +1,6 @@
 cask "aaza" do
-  version "1.0.0"
-  sha256 "d478e3f6d8206df2bbbf28e3053a4d647d14eda0e83ddb5c9fd0ec2b76cb6a69"
+  version "1.0.1"
+  sha256 "d620daca050f4248e6461017fbf3e5df2353078c6b09964aaa175378328e97e4"
 
   url "https://github.com/pray3m/aaza/releases/download/v#{version}/aaza-v#{version}-macOS.zip"
   name "aaza"
